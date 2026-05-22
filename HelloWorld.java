@@ -2,6 +2,6 @@ import java.util.*;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Everything will be alright.");
+        System.out.println("Everything will work out sooner or later.");
     }
 }
